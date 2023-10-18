@@ -1,0 +1,5 @@
+total 0
+-rw-r--r-- 1 govls 197610 0 Oct 18 19:19 README.md
+-rw-r--r-- 1 govls 197610 0 Oct 18 19:21 file_list.txt
+-rw-r--r-- 1 govls 197610 0 Oct 18 19:20 hello_world
+-rw-r--r-- 1 govls 197610 0 Oct 18 19:20 test.sh
